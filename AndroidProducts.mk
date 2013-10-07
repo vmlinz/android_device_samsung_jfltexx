@@ -17,4 +17,4 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_jfltexx.mk \
     $(LOCAL_DIR)/cm.mk \
-    $(LOCAL_DIR)/aetherar_jfltexx.mk
+    $(LOCAL_DIR)/secondsight_jfltexx.mk
